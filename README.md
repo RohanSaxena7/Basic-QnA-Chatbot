@@ -1,7 +1,8 @@
-
-# Baisc Q&A Chatbot with Groq
+# Basic Q&A Chatbot with Groq
 
 This is a question-answering chatbot built using **LangChain**, **Groq's LLMs**, and **Streamlit**. The app allows users to interact with various Groq-hosted models and receive concise responses to their questions. Each user provides their own Groq API key to personalize the experience and ensure secure access.
+
+**App Link** : [Basic Q&A Chatbot](https://basic-qna-chatbot-84ggfdt6pqb7fdcgxwcmxc.streamlit.app)
 
 ---
 
